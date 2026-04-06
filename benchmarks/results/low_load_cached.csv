@@ -1,0 +1,21 @@
+prompt,status_code,latency_ms,cached,generated_text
+Explain machine learning in one sentence.,200,86.75,False,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+Explain deep learning in one sentence.,200,83.66,False,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is a neural network?,200,84.22,False,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is overfitting?,200,84.16,False,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is regularization?,200,84.13,False,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+Explain machine learning in one sentence.,200,3.69,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is overfitting?,200,3.03,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+Explain machine learning in one sentence.,200,3.57,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+Explain deep learning in one sentence.,200,4.39,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is a neural network?,200,6.01,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is overfitting?,200,2.77,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is regularization?,200,2.8,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is a neural network?,200,5.77,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+Explain machine learning in one sentence.,200,3.3,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is a neural network?,200,3.98,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is overfitting?,200,4.75,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+Explain machine learning in one sentence.,200,4.6,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+Explain deep learning in one sentence.,200,3.75,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is overfitting?,200,2.68,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors
+What is a neural network?,200,4.0,True,factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors factors

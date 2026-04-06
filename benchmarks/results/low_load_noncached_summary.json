@@ -1,0 +1,14 @@
+{
+  "total_requests": 20,
+  "concurrency": 5,
+  "temperature": 0.7,
+  "avg_latency_ms": 166.22,
+  "min_latency_ms": 153.66,
+  "max_latency_ms": 180.22,
+  "throughput_rps": 29.95,
+  "cache_hit_rate": 0.0,
+  "experiment_name": "low_load_noncached",
+  "memory_before_mb": 45.56,
+  "memory_after_mb": 46.12,
+  "memory_delta_mb": 0.56
+}

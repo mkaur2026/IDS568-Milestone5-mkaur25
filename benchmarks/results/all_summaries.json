@@ -1,0 +1,72 @@
+[
+  {
+    "total_requests": 20,
+    "concurrency": 5,
+    "temperature": 0.0,
+    "avg_latency_ms": 24.1,
+    "min_latency_ms": 2.68,
+    "max_latency_ms": 86.75,
+    "throughput_rps": 196.91,
+    "cache_hit_rate": 0.75,
+    "experiment_name": "low_load_cached",
+    "memory_before_mb": 36.81,
+    "memory_after_mb": 43.44,
+    "memory_delta_mb": 6.62
+  },
+  {
+    "total_requests": 50,
+    "concurrency": 10,
+    "temperature": 0.0,
+    "avg_latency_ms": 11.87,
+    "min_latency_ms": 4.79,
+    "max_latency_ms": 38.31,
+    "throughput_rps": 760.53,
+    "cache_hit_rate": 1.0,
+    "experiment_name": "medium_load_cached",
+    "memory_before_mb": 43.45,
+    "memory_after_mb": 44.5,
+    "memory_delta_mb": 1.05
+  },
+  {
+    "total_requests": 100,
+    "concurrency": 20,
+    "temperature": 0.0,
+    "avg_latency_ms": 42.9,
+    "min_latency_ms": 13.64,
+    "max_latency_ms": 166.85,
+    "throughput_rps": 409.35,
+    "cache_hit_rate": 1.0,
+    "experiment_name": "high_load_cached",
+    "memory_before_mb": 44.53,
+    "memory_after_mb": 45.58,
+    "memory_delta_mb": 1.05
+  },
+  {
+    "total_requests": 20,
+    "concurrency": 5,
+    "temperature": 0.7,
+    "avg_latency_ms": 166.22,
+    "min_latency_ms": 153.66,
+    "max_latency_ms": 180.22,
+    "throughput_rps": 29.95,
+    "cache_hit_rate": 0.0,
+    "experiment_name": "low_load_noncached",
+    "memory_before_mb": 45.56,
+    "memory_after_mb": 46.12,
+    "memory_delta_mb": 0.56
+  },
+  {
+    "total_requests": 50,
+    "concurrency": 10,
+    "temperature": 0.7,
+    "avg_latency_ms": 173.4,
+    "min_latency_ms": 140.32,
+    "max_latency_ms": 195.1,
+    "throughput_rps": 55.52,
+    "cache_hit_rate": 0.0,
+    "experiment_name": "medium_load_noncached",
+    "memory_before_mb": 46.14,
+    "memory_after_mb": 46.64,
+    "memory_delta_mb": 0.5
+  }
+]
